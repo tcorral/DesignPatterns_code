@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/lazy/test/lazy.js" libraries="{JsTestDriver Assertion Framework}" />
+    <file url="file://$PROJECT_DIR$/namespace/test/namespace.js" libraries="{JsTestDriver Assertion Framework}" />
+    <file url="file://$PROJECT_DIR$/prototype/test/prototype.js" libraries="{JsTestDriver Assertion Framework}" />
+    <file url="file://$PROJECT_DIR$/singleton/test/autoInstance.js" libraries="{JsTestDriver Assertion Framework}" />
+  </component>
+</project>
+
